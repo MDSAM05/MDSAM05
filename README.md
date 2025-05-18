@@ -55,6 +55,17 @@
   <img src="https://github-readme-stats.vercel.app/api?username=MDSAM05&show_icons=true&theme=radical" alt="MDSAM05's GitHub stats" />
 </p>
 
+## 🔥 Streak Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MDSAM05&theme=radical" alt="GitHub Streak Stats"/>
+</p>
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MDSAM05&theme=radical&no-frame=true&no-bg=true" alt="GitHub Trophies"/>
+</p>
+
+
 ###
 
 <h2 align="left">📫 Connect with me</h2>
