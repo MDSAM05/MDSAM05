@@ -12,7 +12,7 @@
 
 <p align="left">
 ✨ Creating bugs since 2022<br>
-📚 I'm currently learning backend architecture and exploring system design<br>
+📚 I'm currently learning backend architecture<br>
 🎯 Goals: Build scalable web apps, contribute to open source, and crack top tech interviews<br>
 🎲 Fun fact: I enjoy solving algorithmic problems on LeetCode and turning caffeine into code ☕<br>
 🚀 Projects include a Chat App, Expense Tracker, and Tic Tac Toe Game using the MERN stack<br>
@@ -32,8 +32,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
   <img width="12" />
