@@ -12,7 +12,7 @@
 
 <p align="left">
 ✨ Creating bugs since 2022<br>
-📚 I'm currently learning backend architecture and exploring system design<br>
+📚 I'm currently learning backend architecture<br>
 🎯 Goals: Build scalable web apps, contribute to open source, and crack top tech interviews<br>
 🎲 Fun fact: I enjoy solving algorithmic problems on LeetCode and turning caffeine into code ☕
 </p>
